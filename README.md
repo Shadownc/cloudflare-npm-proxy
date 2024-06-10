@@ -9,6 +9,9 @@ npx wrangler login
 # 校验登录以后执行
 npm run deploy
 ```
+## 一键部署
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Shadownc/cloudflare-npm-proxy)
+
 ## 测试是否成功：
 访问`example.com`/axios
 **或者**
